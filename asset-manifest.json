@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goalApp/static/css/main.16393430.css",
+    "main.js": "/goalApp/static/js/main.b50fb49f.js",
+    "static/js/453.7cc2c848.chunk.js": "/goalApp/static/js/453.7cc2c848.chunk.js",
+    "static/media/logo.svg": "/goalApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goalApp/index.html",
+    "main.16393430.css.map": "/goalApp/static/css/main.16393430.css.map",
+    "main.b50fb49f.js.map": "/goalApp/static/js/main.b50fb49f.js.map",
+    "453.7cc2c848.chunk.js.map": "/goalApp/static/js/453.7cc2c848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16393430.css",
+    "static/js/main.b50fb49f.js"
+  ]
+}
